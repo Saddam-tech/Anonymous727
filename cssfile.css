@@ -1,0 +1,330 @@
+body {
+  background-image: url("/images/32-328692_macbook-air-wallpaper-pink.jpg");
+  background-attachment: fixed;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #330339;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+li a:hover {
+  background-color: black;
+}
+
+.the {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #330330;
+  box-sizing: border-box;
+  
+
+}
+
+
+.tre {
+  font-size: 60px;
+  margin-left: 710px;
+  color: red:
+}
+#ssd {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+h1:hover {
+  background-color: #330330;
+}
+
+.re {
+  display: block;
+  overflow: hidden;
+  background-color: #330330;
+  margin-right: 600px;
+  padding: 1px;  
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1 {
+  color: black;
+}
+header {
+  background-color:#330330;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+#ssa {
+  color: white;
+}
+
+nav {
+  list-style-type: none;
+  padding: 0;
+}
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  height: 200px;
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: aut
+  }
+}
+
+.hey {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+
+}
+.hey:hover {
+  background-color: blue;
+}
+p {
+  border-left: 10px solid red;
+  margin-left: auto;
+  background-color: pink;
+  
+}
+
+p:hover {
+  border-radius: 10px;
+}
+
+p.fff {
+  padding: 35px;
+  width: 350px;
+  margin-left: 10px;
+}
+div.ddd {
+  background-color: lightgrey;
+  width: 50px;
+  border: 15px solid green;
+  top: 0;
+  padding: 5px;
+  margin: 2px;
+  position: -webkit-sticky;
+  position: sticky;
+  
+}
+
+div.qqq {
+  white-space: nowrap;
+  width: 50px;
+  overflow: hidden;
+  text-overflow: clip;
+  border: 1px solid black;
+
+}
+a:link {
+  color: green;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
+}
+
+a.mma:link, a.mm1:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-family: cursive
+
+}
+a.mm:hover, a.mm1:active {
+  background-color: red;
+  
+}
+
+div.fixed {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border: solid grey;
+  color: grey;
+}
+div.fixed:hover {
+  border-radius: 20px;
+  transition-duration: 0.5s;
+  
+
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+}
+
+.sss {
+  position: relative;
+}
+
+.sevv {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+ .sev {
+  width: 1000;
+  height: auto;
+  opacity: 0.3;
+}
+
+#overflowtext {
+  background: #4CAF50;
+  color: white;
+  padding: 15px;
+  width: 50%;
+  height: 200px;
+  overflow: auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  float: left;
+}
+
+.clearfix {
+  overflow: auto;
+  border: 3px solid #4caf50;
+  padding: 5px;
+  margin: 5px;
+}
+
+.img2 {
+  float: right;
+}
+.img1{
+  float: right;
+}
+
+.box {
+  float: left;
+  padding: 33.33%;
+  padding: 50px;
+}
+* {
+  box-sizing: border-box;
+}
+
+.clearfix1::after {
+  content: "";
+  clear: both;
+  display: flex;
+  
+
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+
+}
+
+.flex-container .box {
+  background-color: #f1f1f1;
+  width: 100%;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+
+}
+
+.li {
+  float: left;
+}
+
+.li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:
+}
+
+.bbr {
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+
+button {
+  background-color: #ccc;
+  
+}
+button:hover {
+  border-radius: 30px;
+  transition-duration: 0.5s;
+  
+}
+
